@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react'
 import styled from '@emotion/styled'
 import ImagenCripto from './img/imagen-criptos.png'
 import Formulario from './components/Formulario'
-import Resultado from './components/resultado'
+import Resultado from './components/Resultado'
 import Spiner from './components/Spiner'
 
 const Contenedor = styled.div`
